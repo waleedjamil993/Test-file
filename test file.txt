@@ -1,0 +1,6 @@
+git init
+git remote add origin <link>
+git remote -v
+git add .             // for adds the all files and foler
+git commit -m "commit name"
+git push origin <branch name> 
